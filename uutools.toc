@@ -1,0 +1,9 @@
+## Interface: 11304
+## Title: uutools
+## Title-zhCN: 悠悠卫士
+## Author: chenbool 30024167@qq.com
+## Notes: uutools,close 1 level trade
+## Notes-zhCN: 悠悠卫士-阻止1级小号交易
+## Version: 1.3
+## DefaultState: Enabled
+uutools.lua
