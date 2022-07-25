@@ -3,6 +3,8 @@
 
 `NOW SUPPORTS SHADOWLANDS & WOW CLASSIC`
 
+`At present, Chinese mainland play, Taiwan, Hong Kong can be normal use`
+
 ### Description
 `Stop Level 1 small trades，To prevent robot harassment`
 
