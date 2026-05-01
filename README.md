@@ -1,58 +1,59 @@
+# uutools - 魔兽世界小号交易拦截插件
 
-### FULLY PLAYABLE IN PVP AND PVE
+为魔兽世界添加的阻止小号交易插件，防止机器人骚扰和金币诈骗。
 
-`NOW SUPPORTS SHADOWLANDS & WOW CLASSIC`
+## 特性
 
-`At present, Chinese mainland play, Taiwan, Hong Kong can be normal use`
-
-### Description
-`Stop Level 1 small trades，To prevent robot harassment`
-
-
-### Features
-- Stop Level 1 small trades
-- To prevent robot harassment
-- To prevent gold coin fraud
-
-
-#### github code
-https://github.com/chenbool/uutools
-
-
-JOIN US ON QQ Group: 484043598
-
-
-
----
-
-
-## **在 PVP 和 PVE 中完全可玩**
-
-`现在支持 SHADOWLANDS 和 WOW CLASSIC`
-
-为魔兽世界添加了 阻止小号交易。
-此插件不应干扰您当前的热键设置或配置。
-
-#### github 源码
-https://github.com/chenbool/uutools
-
-加入我们的 QQ群: 484043598
-
-#### 说明：
-`阻止1级小号交易, 防止机器人骚扰, 拦截脚本强制交易`
-
-#### 功能：
-- 阻止1级小号交易
+- 阻止 1 级小号交易
 - 防止机器人骚扰
 - 拦截脚本强制交易
-- 防止骗金币
+- 防止金币诈骗
+- 支持 SHADOWLANDS 和 WOW CLASSIC
+- 不干扰当前热键设置或配置
 
+## 支持平台
 
-#### 正在开发的功能
-- 游戏适配
+- 国服
+- 台服
+- 港服
 
-#### 变更日志
-- v3.0.4 by yeunga[NGA] 2022-07-23
-    * 1.随游戏更新了版本号
-    
-- v1.0.0 原版，作者 NGA
+## 项目结构
+
+```
+uutools/
+├── uutools.lua           # 主程序
+├── uutools.toc           # 插件清单
+├── .gitignore
+└── README.md
+```
+
+## 使用说明
+
+该插件为静默运行插件，安装后自动生效，无需额外配置。
+
+### 功能说明
+
+- **阻止小号交易**：自动拦截 1 级角色的交易请求
+- **防骚扰**：防止机器人自动发送的交易请求
+- **防骗金**：拦截脚本强制交易，防止金币诈骗
+
+## 版本历史
+
+| 版本 | 更新内容 |
+|------|----------|
+| v1.3 | 当前版本 |
+| v1.0.0 | 初始版本 |
+
+## 相关链接
+
+- [GitHub 源码](https://github.com/chenbool/uutools)
+
+## 联系方式
+
+- QQ群：484043598
+- 作者：chenbool
+- 邮箱：30024167@qq.com
+
+## 许可证
+
+MIT License
